@@ -2,7 +2,8 @@
 
 // 1. Create a variable using let and store your name.
 let name = "Aalan";
-console.log(typeof name);
+console.log("name:",name);
+console.log(typeof (name));
 
 // 2. Create a variable containing your age.
 let age = 24;
